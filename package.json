@@ -1,0 +1,12 @@
+{
+  "name": "saas-lojas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel para alugar templates de lojas (semanal/mensal) com edição de textos, preços e checkout.",
+  "engines": {
+    "node": ">=22.13 <27"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  }
+}
